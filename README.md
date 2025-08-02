@@ -15,7 +15,7 @@ This is my personal portfolio website built using **only HTML and CSS**. It show
 - Downloadable CV link
 - Education section
 - About section
-- Contact section (if added)
+- Contact section
 
 ## 🛠️ Built With
 
